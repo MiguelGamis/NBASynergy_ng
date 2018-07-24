@@ -1,0 +1,5 @@
+# HTID:748574: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:748574:
+
+Redirect 301 /synergystats.php /matchups.php
